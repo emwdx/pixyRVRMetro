@@ -53,6 +53,7 @@ class Pixy:
             self.width = dataL[4]
             self.height = dataL[5]
             self.blockFound = True
+
         else:
             self.x = None
             self.y = None
